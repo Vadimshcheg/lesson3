@@ -83,8 +83,12 @@ git commit --amend -m “message”
 
 ## Как добавлять картинки
 
-бла-бла, шарик
-![шарик](https://kartinkin.net/uploads/posts/2022-03/1646134684_12-kartinkin-net-p-kartinki-sharikov-12.jpg)
+Чтобы добавить картинки, можно использовать следующее:
+```
+![](ссылка на картинку с ее расширением)
+``` 
+пример:
+![альтернативный текст](https://photocentra.ru/images/main56/569683_main.jpg)
 
 ## Как вставлять исходный код
 
