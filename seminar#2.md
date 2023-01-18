@@ -83,6 +83,8 @@ git commit --amend -m “message”
 
 ## Как добавлять картинки
 
+бла-бла, шарик
+![шарик](https://kartinkin.net/uploads/posts/2022-03/1646134684_12-kartinkin-net-p-kartinki-sharikov-12.jpg)
 
 ## Как вставлять исходный код
 
