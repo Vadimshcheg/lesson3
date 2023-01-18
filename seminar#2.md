@@ -96,7 +96,6 @@ git commit --amend -m “message”
 
 Пример такого кода:
 
-```
-php
+```php
 <?php echo 'Вывод какого-то текста'; ?>
 ```
